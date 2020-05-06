@@ -1,0 +1,5 @@
+NumPEs: 57344
+L1Size: 7168
+L2Size: 7168
+NoC_BW: 224
+NoC_NumHops: 1
